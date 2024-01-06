@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 My name is Khosro
 
-<!--
-**khosrogh/khosrogh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📚 Former Research Assistant at Aalborg University, Denmark
+- 🚀 Aiming to become a leading tech engineer, using my skills to solve real-world problems.
+- 💻 Skilled in Python (numpy, pandas, matplotlib, seaborn, etc) SQL, and Matlab 
+- 🔭 I’m currently working on Advanced Python data structures
+- 🌱 I’m continuously learning about Python, OOP, Data Analysis
+- 👯 I’m looking to collaborate on Energy Data Analysis
+- 🚧 Open for projects
+- 💬 Ask me about Python, Solar energy, Power Systems Engineering
+- 📫 How to reach me: khosro.ghaemi@gmail.com
+- ⚡ Fun fact: I play Setaar(a Persian instrument) and got 3 masters!
+- 🗣️ Speak English, Persian, Español
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🤔 I’m looking for help with ... -->
+<!--- 😄 Pronouns: ...-->
