@@ -4,7 +4,7 @@
 - 📚 Former Research Assistant at Aalborg University, Denmark
 - 🚀 Aiming to become a leading tech engineer, using my skills to solve real-world problems.
 - 💻 Skilled in Python (numpy, pandas, matplotlib, seaborn, etc), SQL, and Matlab
-- - 💬 Ask me about Python, Solar Energy, Power Systems Engineering
+- 💬 Ask me about Python, Solar Energy, Power Systems Engineering
 - 🌱 I’m continuously learning about Python, OOP, Data Analysis
 - 👯 I’m looking to collaborate on Energy Data Analytics
 - 🚧 Open for projects
