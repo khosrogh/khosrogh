@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Khosro
+### Hi there 👋 My name is Khosro     :desktop_computer::computer:
 
 
 - 📚 Former Research Assistant at Aalborg University, Denmark
@@ -15,3 +15,10 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!--- 😄 Pronouns: ...-->
 <!--- - 🔭 I’m currently working on Advanced Python data structures ...-->
+
+
+## IDEs & Tools
+| Using | Learning | Will Learn | Used |
+| :---: | :---: | :---: | :---: |
+| [<img src="https://cdn.simpleicons.org/windows" title="Windows 11" alt="Windows 11" width="48">](https://www.microsoft.com/en-us/windows/) [<img src="https://cdn.simpleicons.org/visualstudiocode" title="Visual Studio Code" alt="Visual Studio Code" width="48">](https://code.visualstudio.com/) [<img src="https://cdn.simpleicons.org/git" title="Git" alt="Git" width="48">](https://git-scm.com/) [<img src="https://cdn.simpleicons.org/github" title="GitHub" alt="GitHub" width="48">](https://github.com/) | [<img src="https://cdn.simpleicons.org/polars" title="Polars" alt="Polars" width="48">](https://pola.rs/) [<img src="https://cdn.simpleicons.org/powerbi" title="Power BI" alt="Power BI" width="52">](https://powerbi.microsoft.com/) [<img src="https://cdn.simpleicons.org/pytest" title="Pytest" alt="Pytest" width="58">](https://pytest.org/) [<img src="https://cdn.simpleicons.org/docker" title="Docker" alt="Docker" width="52">](https://www.docker.com/) | [<img src="https://cdn.simpleicons.org/postman" title="Postman" alt="Postman" width="48">](https://www.postman.com/) | [<img src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio" alt="Visual Studio" width="48">](https://visualstudio.microsoft.com/vs/) [<img src="https://cdn.simpleicons.org/heroku" title="Heroku" alt="Heroku" width="48">](https://www.heroku.com/) |
+
