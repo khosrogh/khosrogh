@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Energy Data Analytics
 - 🚧 Open for projects
 - 📫 How to reach me: khosro.ghaemi@gmail.com
-- ⚡ Fun fact: I play Setaar(a Persian instrument) and got 3 master degrees!
+<!-- ⚡ Fun fact: I play Setaar(a Persian instrument) and got 3 master degrees! -->
 - 🗣️ Speak English, Persian, Español(limited)
 
 <!-- - 🤔 I’m looking for help with ... -->
