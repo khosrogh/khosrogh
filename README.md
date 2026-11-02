@@ -1,23 +1,39 @@
-### Hi there 👋 My name is Khosro     :desktop_computer::computer:
+### Hi there 👋 I'm Khosro — Power System & Solar PV Engineer (MSc) ⚡☀️
 
+6+ years designing, testing and modelling PV systems from 5 kW to 1 MW, and running load flow, short-circuit, dynamic stability and interconnection studies in DIgSILENT PowerFactory and ETAP. I built and validated a model of the Tenerife island transmission network with wind, solar, BESS and conventional generation.
 
+- ⚡ Power Systems Engineer – Researcher at the **Escuela Politécnica Superior, Universidad de Alcalá** (Spain), since Sep 2025
+- 🐍 I automate scenario sweeps and batch studies with the **PowerFactory Python API** (engine mode)
 - 📚 Former Research Assistant at Aalborg University, Denmark
-- 🚀 Aiming to become a leading tech engineer, using my skills to solve real-world problems.
-- 💻 Skilled in Python (numpy, pandas, matplotlib, seaborn, etc), SQL, DAX, MDX, and Matlab
-- 💬 Ask me about Python, Solar Energy, Power Systems Engineering
-- 🌱 I’m continuously learning about Python, OOP, Data Analysis
-- 👯 I’m looking to collaborate on Energy Data Analytics
-- 🚧 Open for projects
-- 📫 How to reach me: khosro.ghaemi@gmail.com
-- 🗣️ Speak English, Persian, Español(limited)
-<!-- ⚡ Fun fact: I play Setaar(a Persian instrument) and got 3 master degrees! -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!--- 😄 Pronouns: ...-->
-<!--- - 🔭 I’m currently working on Advanced Python data structures ...-->
+<!-- - 🇨🇦 Open to power system and solar PV engineering roles in Canada -->
+- 📫 Reach me: khosro.ghaemi@gmail.com · [LinkedIn](https://www.linkedin.com/in/khosroghaemi/)
+- 🗣️ English, Persian, Español (limited)
 
+## Power Systems
+| Area | Details |
+| :--- | :--- |
+| Tenerife transmission network | 220 kV / 66 kV model built from public data (Red Eléctrica, Endesa, other operators and TSOs), validated against public generation and load data; wind, solar PV, BESS, combined-cycle, gas, steam, diesel |
+| Studies | Load flow, short circuit, RMS dynamic stability (faults, generation trips, frequency events), N-1 contingencies, hourly load flows |
+| Grid integration | New wind, solar and BESS connections: voltage profiles, congestion, contingencies, ENTSO-E grid code requirements |
+| BESS | Siting and sizing with optimal power flow (candidate-bus ranking, power, energy, duration) |
+| Campus network | Several schools, 20/0.4 kV transformers, 4 MW PV; load flow, voltage profile and contingency analysis at varying PV penetration |
+| Reporting | Results reported to Red Eléctrica and ITER engineers; guiding junior engineers |
 
-## IDEs & Tools
-| Using | Learning | Will Learn | Used |
+## Solar PV
+| Area | Details |
+| :--- | :--- |
+| Design | Residential, commercial and industrial PV systems in PVsyst, Solargis, AutoCAD Electrical, PVcase and RatedPower: cable sizing, voltage drop, earthing, AC/DC protection |
+| Modelling | PVsyst and Simulink; weather-station data processed with Python and SQL |
+| Testing & operation | IEC 61215 module tests; 20 kW PV test farm (tracker, off-grid, on-grid) with SCADA and data loggers |
+
+## Transmission System Operator (TSO) Experience
+Power system engineer at Khorasan Regional Electricity Company (TSO):
+- Analysed real dispatching-office data to reconstruct grid incidents and classify loads by voltage-sag sensitivity
+- Assessed wind power against real load and estimated reliability indices (LOLP, LOLE, EENS) for generation and transmission expansion scenarios
+
+## Tools
+| Power systems | Solar PV | Data & code | Workflow |
 | :---: | :---: | :---: | :---: |
-| [<img src="https://cdn.simpleicons.org/windows" title="Windows 11" alt="Windows 11" width="48">](https://www.microsoft.com/en-us/windows/) [<img src="https://cdn.simpleicons.org/visualstudiocode" title="Visual Studio Code" alt="Visual Studio Code" width="48">](https://code.visualstudio.com/) [<img src="https://cdn.simpleicons.org/git" title="Git" alt="Git" width="48">](https://git-scm.com/) [<img src="https://cdn.simpleicons.org/github" title="GitHub" alt="GitHub" width="48">](https://github.com/) | [<img src="https://cdn.simpleicons.org/polars" title="Polars" alt="Polars" width="48">](https://pola.rs/) [<img src="https://cdn.simpleicons.org/powerbi" title="Power BI" alt="Power BI" width="52">](https://powerbi.microsoft.com/) [<img src="https://cdn.simpleicons.org/pytest" title="Pytest" alt="Pytest" width="58">](https://pytest.org/) [<img src="https://cdn.simpleicons.org/docker" title="Docker" alt="Docker" width="52">](https://www.docker.com/) | [<img src="https://cdn.simpleicons.org/postman" title="Postman" alt="Postman" width="48">](https://www.postman.com/) | [<img src="https://cdn.simpleicons.org/visualstudio" title="Visual Studio" alt="Visual Studio" width="48">](https://visualstudio.microsoft.com/vs/) [<img src="https://cdn.simpleicons.org/heroku" title="Heroku" alt="Heroku" width="48">](https://www.heroku.com/) |
+| DIgSILENT PowerFactory, ETAP | PVsyst, PVcase, RatedPower, Solargis, AutoCAD Electrical | Python (numpy, pandas, matplotlib, seaborn), SQL, SQL Server, Grafana, MATLAB/Simulink | Git, GitHub, VS Code |
 
+<!-- ⚡ Fun fact: I play Setaar (a Persian instrument) and hold 3 master degrees! -->
